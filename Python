@@ -1,0 +1,4 @@
+here a=2,b=2
+for adding this two numbers
+print(a+b)
+4
